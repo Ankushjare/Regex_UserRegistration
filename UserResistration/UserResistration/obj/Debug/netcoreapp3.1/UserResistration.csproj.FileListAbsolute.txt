@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\bin\Debug\netcoreapp3.1\UserResistration.exe
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\bin\Debug\netcoreapp3.1\UserResistration.deps.json
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\bin\Debug\netcoreapp3.1\UserResistration.runtimeconfig.json
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\bin\Debug\netcoreapp3.1\UserResistration.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\bin\Debug\netcoreapp3.1\UserResistration.dll
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\bin\Debug\netcoreapp3.1\UserResistration.pdb
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\obj\Debug\netcoreapp3.1\UserResistration.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\obj\Debug\netcoreapp3.1\UserResistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\obj\Debug\netcoreapp3.1\UserResistration.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\obj\Debug\netcoreapp3.1\UserResistration.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\obj\Debug\netcoreapp3.1\UserResistration.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\obj\Debug\netcoreapp3.1\UserResistration.dll
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\obj\Debug\netcoreapp3.1\UserResistration.pdb
+C:\Users\Ankush\Desktop\fruti\UserResistration\UserResistration\obj\Debug\netcoreapp3.1\UserResistration.genruntimeconfig.cache

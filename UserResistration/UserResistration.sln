@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserResistration", "UserResistration\UserResistration.csproj", "{7BC2AA1F-C289-440F-AAB0-558CB141B649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitUserResistration", "NUnitUserResistration\NUnitUserResistration.csproj", "{28B4ED5E-BDD9-48C5-B14A-3800F58E4ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC2AA1F-C289-440F-AAB0-558CB141B649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC2AA1F-C289-440F-AAB0-558CB141B649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC2AA1F-C289-440F-AAB0-558CB141B649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC2AA1F-C289-440F-AAB0-558CB141B649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B4ED5E-BDD9-48C5-B14A-3800F58E4ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B4ED5E-BDD9-48C5-B14A-3800F58E4ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B4ED5E-BDD9-48C5-B14A-3800F58E4ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B4ED5E-BDD9-48C5-B14A-3800F58E4ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CA4257-BF7B-4A63-BDA7-0955CB50EE96}
+	EndGlobalSection
+EndGlobal
